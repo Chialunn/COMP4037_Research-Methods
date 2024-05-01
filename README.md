@@ -1,1 +1,1 @@
-# COMP4037_Research-Methods
+The code i used is in the file named "code", it is based on python, and i use jupyter notebook.
